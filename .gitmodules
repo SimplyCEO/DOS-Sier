@@ -1,0 +1,3 @@
+[submodule "lib/fcaseopen"]
+	path = lib/fcaseopen
+	url = https://github.com/SimplyCEO/fcaseopen.git
